@@ -8,8 +8,7 @@ To use view or use this template simply download the zip or clone project. If yo
 
 ## Usage
 
-Its a one page, 3 column flex layout with media queries.
-Links in the menu bar are installed though not activated.
+Open the project file, read the question, press on one of the multiple choice answer buttons until you receive your score.
 
 ## Contributing
 
